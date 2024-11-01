@@ -1,0 +1,12 @@
+{
+  "name": "moduls-assignment",
+  "version": "1.0.0",
+  "description": "Assignment on modules",
+  "main": "export.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Emmanuel",
+  "license": "ISC"
+}
